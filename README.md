@@ -5,13 +5,9 @@ CCI tool based on GCN
 -src
   -
   -
-  ...
-  -
 -data
   -visium_data
     _
-    -
-    ...
     -
  
 の状態から始め，main.ipynbを順に実行していく．
